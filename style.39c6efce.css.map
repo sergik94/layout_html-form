@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,OACE,kBACF,CAEA,uBACE,aAAc,CACd,kBACF,CAEA,QACE,kBACF","file":"style.39c6efce.css","sourceRoot":"..\\src","sourcesContent":[".group {\n  margin-bottom: 20px;\n}\n\n.item:not(:last-child) {\n  display: block;\n  margin-bottom: 10px;\n}\n\n.select {\n  overflow-y: visible;\n}\n"]}
